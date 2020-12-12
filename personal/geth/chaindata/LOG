@@ -1,0 +1,18 @@
+=============== Dec 9, 2020 (PST) ===============
+20:31:59.120673 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:31:59.123912 db@open opening
+20:31:59.125834 version@stat F·[] S·0B[] Sc·[]
+20:31:59.127156 db@janitor F·2 G·0
+20:31:59.127220 db@open done T·3.265128ms
+20:31:59.128110 db@close closing
+20:31:59.128211 db@close done T·98.688µs
+=============== Dec 9, 2020 (PST) ===============
+20:32:19.399228 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:32:19.399861 version@stat F·[] S·0B[] Sc·[]
+20:32:19.399973 db@open opening
+20:32:19.400211 journal@recovery F·1
+20:32:19.404948 journal@recovery recovering @1
+20:32:19.411653 memdb@flush created L0@2 N·12 S·802B "H\xb5y..\x8b \x04,v5":"\xc9K\xec..@\xb3\xcf,v2"
+20:32:19.420365 version@stat F·[1] S·802B[802B] Sc·[0.25]
+20:32:19.427140 db@janitor F·3 G·0
+20:32:19.427179 db@open done T·27.158531ms

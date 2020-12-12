@@ -4,10 +4,14 @@
     "homesteadBlock": 0,
     "eip150Block": 0,
     "eip155Block": 0,
-    "eip158Block": 0
+    "eip158Block": 0,
+    "byzantiumBlock": 0,
+    "constantinopleBlock": 0,
+    "petersburgBlock": 0,
+    "istanbulBlock": 0
   },
   "alloc"      : {
-    "0xeb680f30715f347d4eb5cd03ac5eced297ac5046":{
+    "0x3aaab19c7a6d388ad49dd4f8d2fd2713fd71ba7a":{
       "balance":"1500000000000000000000000"
     }
   },
